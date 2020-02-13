@@ -1,1 +1,1 @@
-This is a documentation of the Computational Biology Labs and Homework file. This repository will be useful to store all Computational Biology Labs and Homework.
+This repository documents my work in EBIO 4420, "Computational Biology", during spring 2020 at the University of Colorado Boulder.
