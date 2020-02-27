@@ -114,11 +114,12 @@ for (t in seq(2, totalGenerations)) {
 }
 
 # plotting the abundances of prey and predators over time
-#quartz() # I use this to help me look at the graphs
+quartz() # I use this to help me look at the graphs
 plot(time, n, type = 'l',
 		 xlab = "Number of Generations",
 			ylab = "Abundance",
 		 ylim = c(0, max(n)),
+		 xlim = c(0, 500),
 			main = "Predator and Prey Abundance Over Time")
 lines(time, p, col = "hotpink")
 lines(time, n, col = "purple")
