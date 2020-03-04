@@ -3,7 +3,6 @@
 
 # Question #1: Practicing a for loop to print "hi" 10 times
 printHi <- for ( i in seq(1,10) ) {
-	print("hi")
 }
 
 # Question #2:Print a for loop for when Tim has an starts with $10 and he earns allowance at $5 a week, and he spends $2.68 a week on (2 packs of gum) that each cost $1.34 a week plus tax,
@@ -23,7 +22,7 @@ PopulationSize <- 2000 #individuals
 decreaseBy <- 0.05 #%
 
 for (i in seq(1:7)) {
-	decreaseInPopulation <- (PopulationSize - decreaseBy) 
+	decreaseInPopulation <- (PopulationSize * decreaseBy) #changed the percentage here from subtracted to multiplied
 	PopulationSize <- decreaseInPopulation
 	print(PopulationSize)
 }
@@ -55,19 +54,17 @@ zeros <- rep(0,18)
 # Question 5b 
 # print i to the ith value 3x the iterator variable
 for ( i in seq(1,18) ) {
-	i <- i * 3
-	print(i)}
+	zeros[i] <- i * 3
+	print(zeros[i])}
 
 # Question 5c
 myVec <- rep(0,18) # the initial vector of zeros but this time called myVec rather than zeros b/c it makes 												more sense to me
 
-for (i in 2:2) { #I just want one line of code with 18 zeros
-	myVec <- rep(0,18)
-	myVec <- seq(0,18)
-	myVec <- rep(0,18)
-	myVec [1] <- 1 # here I want to change the first zero to a 1
-	print(myVec)
-	}
+ #I just want one line of code with 18 zeros
+myVec <- rep(0,18)
+myVec [1] <- 1 # here I want to change the first zero to a 1 so I got rid of the unecessary for loop
+print(myVec)
+
 	
 
 # Question 5d # taking the sequence from above and making it + 1 and then 2* the previous sequence 
@@ -91,12 +88,7 @@ print(fib_seq)  #here I can see the sequence
 
 # Question 7
 # I already stored the values in vectors above
-time <- rep(0,12)
-
-# store the time vectors
-for( i in seq(1,12)){				# this is my for loop
-	time[i] <- i
-}
+time <- 1:12
 
 print(time) # making sure I did this correctly
 
@@ -104,5 +96,4 @@ print(time) # making sure I did this correctly
 abundance <- n
 plot(time,abundance)
 
-# Question 8 
 
