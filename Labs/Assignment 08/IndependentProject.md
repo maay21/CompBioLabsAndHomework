@@ -1,4 +1,5 @@
-# What Did the Barn Swallow?: Independent Project 
+# What Did the Barn Swallow?
+## Independent Project 
 ### Marina Ayala, Computational Biology, University of Colorado Boulder Spring 2020
 
 ## Introduction
@@ -26,9 +27,14 @@ I want to analyze the data by constructing a plot of glucocorticoid hormone leve
 
 ## References
 Barn Swallow Identification, All About Birds, Cornell Lab of Ornithology. (2019). Retrieved April 11, 2020, from [https://www.allaboutbirds.org/guide/Barn_Swallow/id](https://www.allaboutbirds.org/guide/Barn_Swallow/id)
+
 Jenkins, Brittany R. et al. (2014), Data from: An experimental analysis of the heritability of variation in glucocorticoid concentrations in a wild avian population, Dryad, Dataset, [https://doi.org/10.5061/dryad.h14kk](https://datadryad.org/stash/dataset/doi:10.5061/dryad.h14kk)
+
 Jenkins, B. R., Brittany R. Jenkins Brittany R. Jenkins, Vitousek, M. N., Hubbard, J. K., Hubbard, J. K., Safran, R. J., … Google. (2014, September 7). An experimental analysis of the heritability of variation in glucocorticoid concentrations in a wild avian population. Retrieved April 10, 2020, from [https://royalsocietypublishing.org/doi/10.1098/rspb.2014.1302](https://royalsocietypublishing.org/doi/10.1098/rspb.2014.1302)
+
 Rebecca Safran. (2016, September 13). Retrieved April 11, 2020, from [https://www.colorado.edu/ebio/rebecca-safran](https://www.colorado.edu/ebio/rebecca-safran)
+
 The Editors of Encyclopaedia Britannica. (2018, June 26). Glucocorticoid. Retrieved April 10, 2020, from [https://www.britannica.com/science/glucocorticoid](https://www.britannica.com/science/glucocorticoid)
+
 The Hormones : Corticoids. (n.d.). Retrieved April 11, 2020, from [http://e.hormone.tulane.edu/learning/corticoids.html](http://e.hormone.tulane.edu/learning/corticoids.html)
 
