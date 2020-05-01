@@ -11,8 +11,8 @@
 ## Methods
 ### The source of the data
 ### Data from:
-#### [Jenkins, Brittany R., Maren N. Vitousek, Joanna K. Hubbard, and Rebecca J. Safran. “An Experimental Analysis of the Heritability of Variation in Glucocorticoid Concentrations in a Wild Avian Population.” Proceedings of the Royal Society B: Biological Sciences 281, no. 1790 (July 2014): 20141302. https://doi.org/10.1098/rspb.2014.1302.] (https://doi.org/10.1098/rspb.2014.1302.)
-#### [Jenkins, Brittany R. et al. (2014), Data from: An experimental analysis of the heritability of variation in glucocorticoid concentrations in a wild avian population, Dryad, Dataset, https://doi.org/10.5061/dryad.h14kk] (https://doi.org/10.5061/dryad.h14kk)
+#### Jenkins, Brittany R., Maren N. Vitousek, Joanna K. Hubbard, and Rebecca J. Safran. “An Experimental Analysis of the Heritability of Variation in Glucocorticoid Concentrations in a Wild Avian Population.” Proceedings of the Royal Society B: Biological Sciences 281, no. 1790 (July 2014): 20141302. [https://doi.org/10.1098/rspb.2014.1302.](https://doi.org/10.1098/rspb.2014.1302.)
+#### Jenkins, Brittany R. et al. (2014), Data from: An experimental analysis of the heritability of variation in glucocorticoid concentrations in a wild avian population, Dryad, Dataset, [https://doi.org/10.5061/dryad.h14kk](https://doi.org/10.5061/dryad.h14kk)
 
 ## How the data was produced
 #### The data for this dataset was produced through field observations, and through lab work. Blood samples from the brachial vein were taken at initial time of nest disturbance, and then another blood sample was taken 15-60 minutes after the inital disturbance in the field (Jenkins, et. al, 2014). The researchers were disturbing the nest in order to move nestlings that hatched around same time to different nests in order to analyze the effect of brood size on genotypes (Jenkins, et, al. 2014). The blood samples that were obtained from the barn swallows in the field were taken back to the lab and further analyzed to test for the presence of glucocorticoid hormone, and other genetic markers (Jenkins, et, al. 2014). The researchers "separated the blood from plasma in the samples through centrifugation" (Jenkins, et, al. 2014, 3). Bands were also placed on several adult birds to keep track of which birds belonged to each brood (Jenkins, et, al. 2014). The dataset includes both information on the specfic sites and individual birds. Some examples of data collected are: the adult bird band number, the site the bird was banded, the sex of the adult bird, the brood size, if the nest was the experimental or control, the presence of mites on the adult bird, and much more (Jenkins, et. al. 2014).
@@ -30,10 +30,10 @@
 
 
 ## References
-“Barn Swallow Identification, All About Birds, Cornell Lab of Ornithology.” , All About Birds, Cornell Lab of Ornithology. Cornell University, 2019. https://www.allaboutbirds.org/guide/Barn_Swallow/id.
-Griffith, Simon C., and Robert Montgomerie. “Why Do Birds Engage in Extra-Pair Copulation?” Nature 422, no. 6934 (2003): 833–33. https://doi.org/10.1038/422833a.
-Jenkins, Brittany R. et al. (2014), Data from: An experimental analysis of the heritability of variation in glucocorticoid concentrations in a wild avian population, Dryad, Dataset, https://doi.org/10.5061/dryad.h14kk
-Jenkins, Brittany R., Maren N. Vitousek, Joanna K. Hubbard, and Rebecca J. Safran. “An Experimental Analysis of the Heritability of Variation in Glucocorticoid Concentrations in a Wild Avian Population.” Proceedings of the Royal Society B: Biological Sciences 281, no. 1790 (July 2014): 20141302. https://doi.org/10.1098/rspb.2014.1302.
-The Editors of Encyclopaedia Britannica. “Glucocorticoid.” Encyclopædia Britannica. Encyclopædia Britannica, inc., June 26, 2018. https://www.britannica.com/science/glucocorticoid.
-“The Hormones : Corticoids.” e.hormone. Accessed April 30, 2020. http://e.hormone.tulane.edu/learning/corticoids.html.
+#### “Barn Swallow Identification, All About Birds, Cornell Lab of Ornithology.” , All About Birds, Cornell Lab of Ornithology. Cornell University, 2019. [https://www.allaboutbirds.org/guide/Barn_Swallow/id.](https://www.allaboutbirds.org/guide/Barn_Swallow/id.)
+#### Griffith, Simon C., and Robert Montgomerie. “Why Do Birds Engage in Extra-Pair Copulation?” Nature 422, no. 6934 (2003): 833–33. [https://doi.org/10.1038/422833a.](https://doi.org/10.1038/422833a.)
+#### Jenkins, Brittany R. et al. (2014), Data from: An experimental analysis of the heritability of variation in glucocorticoid concentrations in a wild avian population, Dryad, Dataset, [https://doi.org/10.5061/dryad.h14kk](https://doi.org/10.5061/dryad.h14kk)
+#### Jenkins, Brittany R., Maren N. Vitousek, Joanna K. Hubbard, and Rebecca J. Safran. “An Experimental Analysis of the Heritability of Variation in Glucocorticoid Concentrations in a Wild Avian Population.” Proceedings of the Royal Society B: Biological Sciences 281, no. 1790 (July 2014): 20141302. [https://doi.org/10.1098/rspb.2014.1302.](https://doi.org/10.1098/rspb.2014.1302.)
+#### The Editors of Encyclopaedia Britannica. “Glucocorticoid.” Encyclopædia Britannica. Encyclopædia Britannica, inc., June 26, 2018. [https://www.britannica.com/science/glucocorticoid.](https://www.britannica.com/science/glucocorticoid.)
+#### “The Hormones : Corticoids.” e.hormone. Accessed April 30, 2020. [http://e.hormone.tulane.edu/learning/corticoids.html.](http://e.hormone.tulane.edu/learning/corticoids.html.)
 
